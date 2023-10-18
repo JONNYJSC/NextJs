@@ -27,14 +27,14 @@ Crear Package.json
     "start": "next start"
   }
 }
-
+=========================================
 Install Next
 -> npm install next react react-dom
-
+=========================================
 Crear direcorio
 pages
  -> index.js
-
+=========================================
 import React from 'react'
 
 const Index = () => {
@@ -44,11 +44,8 @@ const Index = () => {
 }
 
 export default Index
-
+=========================================
 Comando
 -> npm run dev
-
-export default App;
 ```
-
 #
